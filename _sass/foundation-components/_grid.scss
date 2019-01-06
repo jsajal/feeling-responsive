@@ -287,3 +287,26 @@ $last-child-float: $opposite-direction !default;
     }
   }
 }
+
+$color_1: #fff;
+$background_color_1: #222;
+
+figure {
+  border: thin #c0c0c0 solid;
+  display: flex;
+  flex-flow: column;
+  padding: 5px;
+  max-width: 220px;
+  margin: auto;
+}
+img {
+  max-width: 512px;
+  max-height: 512px;
+}
+figcaption {
+  background-color: $background_color_1;
+  color: $color_1;
+  font: italic smaller sans-serif;
+  padding: 3px;
+  text-align: center;
+}
