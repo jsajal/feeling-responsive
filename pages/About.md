@@ -13,7 +13,7 @@ SACM is the student chapter of the [Association for Computing Machinery][2] at t
 
 To be a member of the national ACM and get journals and discounts on conferences, you must join the national ACM directly and pay fees to it, but you do not need to do that to be involved in SACM.
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">To contact the officers ›</a>
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/grid/">To contact the officers ›</a>
 
 
  [1]: {{ site.url }}{{ site.baseurl }}/documentation/
