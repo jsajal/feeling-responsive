@@ -21,7 +21,7 @@ widget3:
   title: "Prospective and New Students"
   url: '/'
   image: widget-github-303x182.jpg
-  text: '<ul><li><a target="_blank" href="http://sacm.cs.wisc.edu/welcome/"><em><strong>Prospective Student Welcome Weekend</strong></em></a></li><li><a target="_blank" href="http://sacm.cs.wisc.edu/orientation/"><em><strong>Graduate Student Orientation</strong></em></a></li><li><a target="_blank" href="http://sacm.cs.wisc.edu/transition/"><em><strong>Graduate Student Transition Information</strong></em></a></li></ul>'
+  text: '<ul><li><a target="_blank" href="http://sacm.cs.wisc.edu/welcome/"><strong>Prospective Student Welcome Weekend</strong></a></li><li><a target="_blank" href="http://sacm.cs.wisc.edu/orientation/"><strong>Graduate Student Orientation</strong></a></li><li><a target="_blank" href="http://sacm.cs.wisc.edu/transition/"><strong>Graduate Student Transition Information</strong></a></li></ul>'
 #
 # Use the call for action to show a button on the frontpage
 #
