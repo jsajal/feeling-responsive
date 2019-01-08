@@ -5,7 +5,7 @@ title: "About"
 subheadline: "A brief introduction to SACM"
 teaser: ""
 header:
-   image_fullwidth: "header_homepage_13.jpg"
+   image_fullwidth: "header_unsplash_about.jpg"
 permalink: "/getting-started/"
 ---
 

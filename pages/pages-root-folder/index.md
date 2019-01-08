@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: header_unsplash_home.jpg
 widget1:
   title: "Fall 2018 Events"
   url: '/'
@@ -15,12 +15,12 @@ widget1:
 widget2:
   title: "Upcoming Spring 2019 Events"
   url: '/'
-  image: widget-1-302x182.jpg
+  image: widget-github-303x182.jpg
   text: '<ul><li>Class Photo</li><li>Madhacks</li><li>WACM and SACM symposium</li><li>T-Shirt Designing Contest</li><li>Programming Contest</li></ul><h5><em><strong>..... continuing the tradition of TGIFs and boardgames</strong></em></h5>'
 widget3:
   title: "Prospective and New Students"
   url: '/'
-  image: widget-github-303x182.jpg
+  image: widget-1-302x182.jpg
   text: '<ul><li><a target="_blank" href="http://sacm.cs.wisc.edu/welcome/"><strong>Prospective Student Welcome Weekend</strong></a></li><li><a target="_blank" href="http://sacm.cs.wisc.edu/orientation/"><strong>Graduate Student Orientation</strong></a></li><li><a target="_blank" href="http://sacm.cs.wisc.edu/transition/"><strong>Graduate Student Transition Information</strong></a></li></ul>'
 #
 # Use the call for action to show a button on the frontpage
