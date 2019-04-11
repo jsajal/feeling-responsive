@@ -8,20 +8,20 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_home.jpg
 widget1:
-  title: "Fall 2018 Events"
+  title: "Social Acitivities"
   url: '/'
   image: widget-1-302x182.jpg
-  text: '<br/><ul><li>Fall Picnic</li><li>Grad School Q&A</li><li>CS Department Photo Board</li><li>Programming Contest</li></ul><h5><em><strong>..... semester long TGIFs and boardgames</strong></em></h5>'
+  text: '<ul><li>TGIF and Boardgames</li><li>Bornfire with Smores</li><li>Picnics</li><li>Coffee Club</li></ul>'
 widget2:
-  title: "Upcoming Spring 2019 Events"
-  url: '/'
-  image: widget-github-303x182.jpg
-  text: '<ul><li>Class Photo</li><li>Madhacks</li><li>WACM and SACM symposium</li><li>T-Shirt Designing Contest</li><li>Programming Contest</li></ul><h5><em><strong>..... continuing the tradition of TGIFs and boardgames</strong></em></h5>'
-widget3:
   title: "Prospective and New Students"
   url: '/'
+  image: widget-github-303x182.jpg
+  text: '<ul><li><a target="_blank" href="http://sacm.cs.wisc.edu/welcome/"><strong><u>Prospective Student Welcome Weekend</u></strong></a></li><li><a target="_blank" href="http://sacm.cs.wisc.edu/orientation/"><strong><u>Graduate Student Orientation</u></strong></a></li><li><a target="_blank" href="http://sacm.cs.wisc.edu/transition/"><strong><u>Graduate Student Transition Information</u></strong></a></li></ul>'
+widget3:
+  title: "Miscellaneous"
+  url: '/'
   image: widget-1-302x182.jpg
-  text: '<ul><li><a target="_blank" href="http://sacm.cs.wisc.edu/welcome/"><strong>Prospective Student Welcome Weekend</strong></a></li><li><a target="_blank" href="http://sacm.cs.wisc.edu/orientation/"><strong>Graduate Student Orientation</strong></a></li><li><a target="_blank" href="http://sacm.cs.wisc.edu/transition/"><strong>Graduate Student Transition Information</strong></a></li></ul>'
+  text: '<ul><li>gradchat Mail List FAQ</li><li>Nameplate Generator</li><li>COW Award</li></ul>'
 #
 # Use the call for action to show a button on the frontpage
 #

@@ -8,10 +8,10 @@
 #  class: icon-youtube
 #  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
 
-#- name: Twitter
-#  url: http://twitter.com/phlow
-#  class: icon-twitter
-#  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+ - name: Twitter
+   url: https://twitter.com/sacm_uwmadison
+   class: icon-twitter
+   title: "SACM Twitter"
 
 #- name: Mixcloud
 #  url: http://www.mixcloud.com/phlow/
@@ -24,7 +24,7 @@
 #  title: "YouTube Google+"
 
  - name: Facebook
-   url: http://www.facebook.com/groups/627551740714769
+   url: https://www.facebook.com/sacmuwmadison/
    class: icon-facebook
    title: "SACM Facebook Group"
 

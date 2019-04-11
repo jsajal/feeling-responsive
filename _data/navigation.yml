@@ -3,7 +3,7 @@
   side: left
 
 - title: About
-  url: "/getting-started/"
+  url: "/About/"
   side: left
 
 #- title: "Templates"
@@ -11,10 +11,11 @@
 #  side: left
 #  dropdown:
 - title: "Officers"
-  url: "/grid/"
+  url: "/Officers/"
   side: left
- # - title: "Typography"
- #   url: "/design/typography/typography/"
+- title: "Events"
+  url: "/Events/"
+  side: left
  # - title: "Page/Post"
  #   url: "/design/page/"
  # - title: "Post-Left-Sidebar"
