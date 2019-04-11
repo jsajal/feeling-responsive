@@ -9,17 +9,17 @@ header:
   image_fullwidth: header_unsplash_home.jpg
 widget1:
   title: "Social Acitivities"
-  url: '/'
+  url: '/Events/'
   image: widget-1-302x182.jpg
   text: '<ul><li>TGIF and Boardgames</li><li>Bornfire with Smores</li><li>Picnics</li><li>Coffee Club</li></ul>'
 widget2:
   title: "Prospective and New Students"
-  url: '/'
+  url: '/Events/'
   image: widget-github-303x182.jpg
   text: '<ul><li><a target="_blank" href="http://sacm.cs.wisc.edu/welcome/"><strong><u>Prospective Student Welcome Weekend</u></strong></a></li><li><a target="_blank" href="http://sacm.cs.wisc.edu/orientation/"><strong><u>Graduate Student Orientation</u></strong></a></li><li><a target="_blank" href="http://sacm.cs.wisc.edu/transition/"><strong><u>Graduate Student Transition Information</u></strong></a></li></ul>'
 widget3:
   title: "Miscellaneous"
-  url: '/'
+  url: '/Events/'
   image: widget-1-302x182.jpg
   text: '<ul><li>gradchat Mail List FAQ</li><li>Nameplate Generator</li><li>COW Award</li></ul>'
 #
